@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container-fluid .phong {
   height: 600px;
   background: url(anh.jpg);
@@ -336,4 +337,45 @@
   height: 1px;
   background: white;
   margin-top: 20px;
+=======
+.container-fluid .hau {
+  background-image: url(img/hau.png);
+  height: 500px;
+  color: white;
+}
+.container-fluid .hau .hau1 {
+  margin: 0 auto;
+}
+.container-fluid .hau .hau1 .hinh {
+  float: left;
+}
+.container-fluid .hau .hau1 .hinh img {
+  margin: 50px 0;
+  padding: 0;
+  height: 400px;
+  width: 100%;
+}
+.container-fluid .hau .hau1 .nd {
+  float: left;
+}
+.container-fluid .hau .hau1 .nd h2 {
+  margin-top: 80px;
+}
+.container-fluid .hau .hau1 .nd h4 {
+  color: yellow;
+}
+.container-fluid .hau .hau1 .nd .media img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: yellow;
+}
+.container-fluid .hau .hau1 .nd .media p {
+  font-size: 11pt;
+  padding-top: 10px;
+}
+.container-fluid .hau .hau1 .nd .media button {
+  border: none;
+  background: #FFFF00;
+>>>>>>> dfa687098735f8c95783df820d7065746db1613c
 }
