@@ -1,0 +1,41 @@
+.container-fluid .phong {
+  height: 600px;
+  background: url(anh.jpg);
+}
+.container-fluid .phong .bg {
+  width: 100%;
+  height: 100%;
+  background: rgba(200, 200, 200, 0.5);
+}
+.container-fluid .phong .box1 {
+  width: 90%;
+  height: 40%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 12%;
+}
+.container-fluid .phong .box1 h3 {
+  margin-top: -2%;
+  color: white;
+}
+.container-fluid .phong .box1 h5 {
+  float: left;
+  display: block;
+  width: 20%;
+  height: 15%;
+  background: yellow;
+  margin-left: 30%;
+  margin-top: 2%;
+}
+.container-fluid .phong .box1 a {
+  text-decoration: none;
+  float: left;
+  display: block;
+  width: 18%;
+  height: 15%;
+  background: red;
+  margin-left: 4%;
+  margin-top: 2%;
+}
+
+/*# sourceMappingURL=web1.css.map */
