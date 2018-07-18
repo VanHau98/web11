@@ -1,0 +1,69 @@
+.container-fluid .container .hung .row {
+  width: 100%;
+  height: 100%;
+}
+.container-fluid .container .hung .row img {
+  width: 100%;
+  height: 100%;
+}
+.container-fluid .container .hung .row .col-md-6 h1 {
+  text-transform: uppercase;
+  margin-top: 20%;
+  color: #e21d47;
+}
+.container-fluid .container .hung .row .col-md-6 .oke {
+  width: 10%;
+  height: 3px;
+  background: #e21d47;
+}
+.container-fluid .container .chu .row .col-md-6 h1 {
+  color: #e21d47;
+  text-align: center;
+}
+.container-fluid .container .chu .row .col-md-6 p {
+  text-align: center;
+}
+.container-fluid .container .chu .banggia .row .bangmau {
+  width: 90%;
+  height: 80%;
+  background: black;
+  margin-top: 15px;
+  opacity: 0.8;
+}
+@media all and (max-width: 998px) {
+  .container-fluid .container .chu .banggia .row .bangmau {
+    margin-left: 25px;
+  }
+}
+@media all and (max-width: 498px) {
+  .container-fluid .container .chu .banggia .row .bangmau {
+    margin-left: 15px;
+  }
+}
+.container-fluid .container .chu .banggia .row .bangmau .duongke {
+  margin: 0 auto;
+  width: 80%;
+  height: 1px;
+  background: white;
+  margin-top: 20px;
+}
+.container-fluid .container .chu .banggia .row .maudo {
+  margin: 0px 15px;
+  margin-top: 5px;
+  background: #e21d47;
+}
+.container-fluid .container .chu .banggia .row .maudo .khungmau {
+  margin-top: 15px;
+  width: 100%;
+  height: 90%;
+  background: #e21d47;
+  border: yellow solid 3px;
+  opacity: 0.8;
+}
+.container-fluid .container .chu .banggia .row .maudo .khungmau .duongke {
+  margin: 0 auto;
+  width: 80%;
+  height: 1px;
+  background: white;
+  margin-top: 20px;
+}
