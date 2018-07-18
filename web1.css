@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .container-fluid .phong {
   height: 600px;
   background: url(anh.jpg);
@@ -56,6 +55,40 @@
   height: 3px;
   background: #e21d47;
 }
+.container-fluid .dat {
+  height: 800px;
+  background-image: url(img/back.jpg);
+  background-size: 100% 100%;
+}
+.container-fluid .dat .v1 {
+  height: 20px;
+  margin: 0 auto;
+}
+.container-fluid .dat .v2 {
+  height: 150px;
+  margin: 0 auto;
+}
+.container-fluid .dat .v2 h2 {
+  text-align: center;
+  color: yellow;
+  padding-top: 15px;
+}
+.container-fluid .dat .v2 h5 {
+  color: white;
+  text-align: center;
+}
+.container-fluid .dat .v3 {
+  height: 300px;
+  margin: 0 auto;
+}
+.container-fluid .dat .v3 .v3-1 {
+  height: 300px;
+}
+.container-fluid .dat .v3 .v3-1 .card-text {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
 .container-fluid .container .chu .row .col-md-6 h1 {
   color: #e21d47;
   text-align: center;
@@ -106,39 +139,4 @@
   height: 1px;
   background: white;
   margin-top: 20px;
-=======
-.container-fluid .dat {
-  height: 800px;
-  background-image: url(img/back.jpg);
-  background-size: 100% 100%;
-}
-.container-fluid .dat .v1 {
-  height: 20px;
-  margin: 0 auto;
-}
-.container-fluid .dat .v2 {
-  height: 150px;
-  margin: 0 auto;
-}
-.container-fluid .dat .v2 h2 {
-  text-align: center;
-  color: yellow;
-  padding-top: 15px;
-}
-.container-fluid .dat .v2 h5 {
-  color: white;
-  text-align: center;
-}
-.container-fluid .dat .v3 {
-  height: 300px;
-  margin: 0 auto;
-}
-.container-fluid .dat .v3 .v3-1 {
-  height: 300px;
-}
-.container-fluid .dat .v3 .v3-1 .card-text {
-  text-align: center;
-  text-transform: uppercase;
-  color: white;
->>>>>>> 45922335369c16b974d8fc042638ced8af9c23c3
 }
