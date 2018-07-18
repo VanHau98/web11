@@ -145,6 +145,62 @@
   height: 2px;
   background: #000000;
 }
+.container-fluid .duy {
+  margin: 0 auto;
+  background-image: url("h/a.jpg");
+  height: auto;
+}
+.container-fluid .duy .z {
+  width: 100%;
+  background: rgba(128, 0, 128, 0.5);
+}
+.container-fluid .duy .z .trong {
+  height: auto;
+}
+.container-fluid .duy .z .trong .chu {
+  height: 60%;
+}
+.container-fluid .duy .z .trong .chu h1 {
+  color: yellow;
+  font-size: 250%;
+  text-align: center;
+}
+.container-fluid .duy .z .trong .chu p {
+  text-align: center;
+  font-size: 120%;
+}
+.container-fluid .duy .z .hinh {
+  height: auto;
+}
+.container-fluid .duy .z .hinh .h1 img {
+  width: 90%;
+}
+.container-fluid .yt {
+  height: auto;
+  background-image: url("h/dd.jpg");
+}
+.container-fluid .yt .tt {
+  height: 25%;
+  background: rgba(128, 128, 128, 0.5);
+}
+.container-fluid .yt .tt h1 {
+  color: yellow;
+  text-align: center;
+  font-size: 250%;
+}
+.container-fluid .yt .tt p {
+  color: white;
+  text-align: center;
+  font-size: 150%;
+}
+.container-fluid .yt .op {
+  height: 75%;
+}
+.container-fluid .yt .op .iyt {
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+}
 .container-fluid .container .chu .row .col-md-6 h1 {
   color: #e21d47;
   text-align: center;
